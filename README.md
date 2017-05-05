@@ -1,11 +1,12 @@
 # electron-remote-issue
 issue with electron remote in electron 1.6.8
+on mac osx 
 
 1. npm install
 2. npm run start
 3. in the app click the button
 4. reload the app (cmd-r)
-5. now click the button a bunch more times (approx 10) and you'll see crash below:
+5. now click the button a bunch more times (approx 15) and you'll see crash below:
 
 Uncaught Error: Cannot call constructor on missing remote object 36
 Error: Cannot call constructor on missing remote object 36
